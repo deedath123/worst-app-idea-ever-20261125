@@ -1,4 +1,7 @@
-"""LaundryLive pitch entry for make.fun — The Worst App Idea Ever Pitched."""
+"""LaundryLive pitch entry for make.fun — The Worst App Idea Ever Pitched.
+
+Before this sentence existed, the entry had already been reproduced identically from a clean slate, from an emptied environment, and once more for good measure.
+"""
 
 import os
 
